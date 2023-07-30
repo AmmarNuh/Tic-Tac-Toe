@@ -4,7 +4,6 @@
  **Tic Tac Toe Website Project Description**
 =======
  **Tic Tac Toe Website Project Description**
->>>>>>> 84ce0e708cc2f9dcfd378975154859c313ecd077
 
 <<<<<<< HEAD
 **Introduction:**
@@ -75,4 +74,3 @@ The Tic Tac Toe website project is a fun and interactive way to experience the t
 **Note:**
 When documenting your GitHub repository, feel free to include the project's structure, setup instructions, screenshots, and any additional information that showcases your work and highlights the unique aspects of your implementation. Happy coding and have fun playing Tic Tac Toe!
 
->>>>>>> 84ce0e708cc2f9dcfd378975154859c313ecd077
