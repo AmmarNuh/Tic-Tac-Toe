@@ -5,7 +5,6 @@
 =======
  **Tic Tac Toe Website Project Description**
 
-<<<<<<< HEAD
 **Introduction:**
 This Tic Tac Toe website is a simple yet engaging web application that allows users to play the classic Tic Tac Toe game online. Built with HTML, CSS, and JavaScript, the project provides a user-friendly interface and interactive gameplay for both desktop and mobile users.
 
