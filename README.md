@@ -1,8 +1,5 @@
 # Tic-Tac-Toe
-<<<<<<< HEAD
- # Tic-Tac-Toe
- **Tic Tac Toe Website Project Description**
-=======
+
  **Tic Tac Toe Website Project Description**
 
 **Introduction:**
@@ -72,4 +69,5 @@ The Tic Tac Toe website project is a fun and interactive way to experience the t
 
 **Note:**
 When documenting your GitHub repository, feel free to include the project's structure, setup instructions, screenshots, and any additional information that showcases your work and highlights the unique aspects of your implementation. Happy coding and have fun playing Tic Tac Toe!
+<img width="1130" alt="the game in action v1" src="https://github.com/AmmarNuh/Tic-Tac-Toe/assets/135957269/610609e3-b226-4bc7-8dc8-d7410d487fa7">
 
