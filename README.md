@@ -4,6 +4,7 @@
 
 **Introduction:**
 This Tic Tac Toe website is a simple yet engaging web application that allows users to play the classic Tic Tac Toe game online. Built with HTML, CSS, and JavaScript, the project provides a user-friendly interface and interactive gameplay for both desktop and mobile users.
+<img width="1130" alt="the game in action v1" src="https://github.com/AmmarNuh/Tic-Tac-Toe/assets/135957269/610609e3-b226-4bc7-8dc8-d7410d487fa7">
 
 **Features:**
 1. **Responsive Design:** The website is designed to be fully responsive, ensuring a seamless experience across various devices, including desktops, laptops, tablets, and smartphones.
@@ -69,5 +70,4 @@ The Tic Tac Toe website project is a fun and interactive way to experience the t
 
 **Note:**
 When documenting your GitHub repository, feel free to include the project's structure, setup instructions, screenshots, and any additional information that showcases your work and highlights the unique aspects of your implementation. Happy coding and have fun playing Tic Tac Toe!
-<img width="1130" alt="the game in action v1" src="https://github.com/AmmarNuh/Tic-Tac-Toe/assets/135957269/610609e3-b226-4bc7-8dc8-d7410d487fa7">
 
